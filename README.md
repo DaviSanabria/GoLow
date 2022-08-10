@@ -1,3 +1,3 @@
 # GoLow
 Aplicativo para el manejo del estrés
-Jose David Sanabria Aponte
+<br>Jose David Sanabria Aponte
